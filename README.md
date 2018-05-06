@@ -9,7 +9,7 @@ application up and running.
 
 - Real time chat engine for comments
 - Blogs
--Portfolio
+- Portfolio
 
 ### Code Example
 
