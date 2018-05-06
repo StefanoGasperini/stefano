@@ -7,11 +7,11 @@ application up and running.
 
 ###	Features
 
-- Real time chat engine for comments
+- Real _time_ **chat** engine for comments
 - Blogs
 - Portfolio
 
-### Code Example
+### h1/Code Example\h1
 
 ```ruby
 def my_great_method
